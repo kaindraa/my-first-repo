@@ -5,3 +5,5 @@ NPM : 2306274964
 Kelas : PBP F
 
 Hobi : Nonton
+
+Jurusan : Ilmu Komputer
